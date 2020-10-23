@@ -1,5 +1,10 @@
 site_name: Me Adota - Documentations
-dev_addr: '0.0.0.0:8080'
+
+nav: 
+  - Home: index.md
+  - About: 
+    - Global Information: about/about.md
+    - Contributing: about/contributing.md
 
 theme:
   name: material
