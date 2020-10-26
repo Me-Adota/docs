@@ -1,17 +1,28 @@
-# Welcome to MkDocs
+# Welcome to Me Adota
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## What is Me Adopt?
+ 
+The project is a webapp that facilitates the adoption of pets, especially those in vulnerable situations. 
 
-## Commands
+## How did it start?
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Started when our team (Ancient Fiddle) had to choose a project to work in the discipline of **Software Development Methods**, which is taught by Professor **George Marsicano** at the **University of Brasília**. In a meeting to discuss ideas about what to bring to the project, the idea for Me Adota came up and the whole team was excited about the possible impact that the project could achieve.
 
-## Project layout
+## Development Team
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+The development team working on the project is the Ancient Fiddle, which is composed of :
+ 
+- Iago Oliveira Monteiro Ribeiro - <em><a href="https://github.com/iagoomr" target="_blank">iagoomr</a></em>
+ 
+- Guilherme Verissimo Cerveira Braz - <em><a href="https://github.com/GuilhermeBraz" target="_blank">GuilhermeBraz</a></em>
+ 
+- José Guilherme Fernandes Moura - <em><a href="https://github.com/joseguilhermefmoura" target="_blank">joseguilhermefmoura</a></em>
+ 
+- Guilherme Peixoto Lima - <em><a href="https://github.com/guipeeix7" target="_blank">guipeeix7</a></em>
+ 
+- Breno Bezerra de Melo Alencar - <em><a href="https://github.com/b2198" target="_blank">b2198</a></em>
+ 
+- Douglas Farias de Castro - <em><a href="https://github.com/Douglas-Castro" target="_blank">Douglas-Castro</a></em>
+
+
+
