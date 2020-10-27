@@ -20,7 +20,7 @@ You can find out how to install Docker on it's <a href="https://docs.docker.com/
 #### 1. Clone the repository
 
 <code>
-$ git clone https://github.com/AcompanhaLegis/docs.git
+$ git clone https://github.com/Me-Adota/docs.git
 </code>
 
 #### 2. Access the repository directory
@@ -29,21 +29,28 @@ $ git clone https://github.com/AcompanhaLegis/docs.git
 $ cd docs
 </code>
 
-#### 3. Build the docker image from Dockerfile
+#### 3. You must activate the venv bin, it will be activated using
 
 <code>
-$ sudo docker build -t me-adota-docs .
+$ virtualenv venv
+```
+```
+$ source venv/bin/activate
 </code>
 
-#### 3. Run the docker image
+#### 4. The requirements.txt file should list all Python libraries that your machine depend on, and they will be installed using
 
+```
+$ pip install -r requirements.txt
+```
+
+#### 5. Run
 <code>
-$ sudo docker run -p 8080:8080 me-adota-docs
+$ mkdocs serve
 </code>
-
 
 Done!
-It should be running on: http://0.0.0.0:8080/
+It should be running on: http://127.0.0.1:8000/
 
 
 
