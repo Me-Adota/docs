@@ -31,6 +31,8 @@ $ cd docs
 #### 3. You must activate the venv bin, it will be activated using
 
 <code>$ virtualenv venv</code>
+
+
 <code>$ source venv/bin/activate</code>
 
 #### 4. The requirements.txt file should list all Python libraries that your machine depend on, and they will be installed using
