@@ -11,9 +11,7 @@
 
 ### Requirements
 
-You must have <code> Docker</code> installed on your machine.
-
-You can find out how to install Docker on it's <a href="https://docs.docker.com/get-docker/">official website</a>.
+You must have <code> Python 3.8</code>, <code> Pip 20.2</code> and <code>virtualenv</code> installed on your machine.
 
 ### Installing and Running
 
@@ -33,16 +31,14 @@ $ cd docs
 
 <code>
 $ virtualenv venv
-```
-```
 $ source venv/bin/activate
 </code>
 
 #### 4. The requirements.txt file should list all Python libraries that your machine depend on, and they will be installed using
 
-```
+
 $ pip install -r requirements.txt
-```
+
 
 #### 5. Run
 <code>
