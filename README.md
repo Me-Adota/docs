@@ -31,6 +31,7 @@ $ cd docs
 
 <code>
 $ virtualenv venv
+```command ```
 $ source venv/bin/activate
 </code>
 
@@ -55,5 +56,5 @@ It should be running on: http://127.0.0.1:8000/
 <h3><b>LICENSE</b></h3>
 
 <p>
-    This project is licensed under the MIT LICENSE, read more in <a href="">LICENSE.md</a>.
+    This project is licensed under the MIT LICENSE, read more in <a href="https://github.com/Me-Adota/docs/blob/main/LICENSE">LICENSE.md</a>.
 </p>
