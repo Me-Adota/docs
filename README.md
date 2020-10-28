@@ -30,8 +30,7 @@ $ cd docs
 #### 3. You must activate the venv bin, it will be activated using
 
 <code>
-$ virtualenv venv
-```command ```
+$ virtualenv venv\
 $ source venv/bin/activate
 </code>
 
