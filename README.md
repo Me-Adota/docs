@@ -1,3 +1,4 @@
+
 <h3 align="center"><b>Me Adota - Documentations</b></h3>
 <p align="center">
     This is the general documentation for Me Adota website.
@@ -30,7 +31,7 @@ $ cd docs
 #### 3. You must activate the venv bin, it will be activated using
 
 <code>
-$ virtualenv venv\
+$ virtualenv venv<br/>
 $ source venv/bin/activate
 </code>
 
