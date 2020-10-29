@@ -5,7 +5,7 @@ nav:
   - About: 
     - Global Information: about/about.md
     - Contributing: about/contributing.md
-
+  - MkDOCS: mkdocs.md
 theme:
   name: material
   language: en
