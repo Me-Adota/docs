@@ -1,5 +1,11 @@
 # Design de Software
 
+As duplas responsáveis pelo backend e pelo banco de dados contruiram os diagramas e modelos que seriam usados durante o desenvolvimento da aplicação. 
+
+Por meio dos requisitos levantados e documentados no Backlog do Produto, foram feitos o Diagrama de Classe e o Diagrama de Casos de Uso. 
+
+Depois que os diagramas estavam prontos, usamos-os para modelar um banco de dados que seria coerente para o armazenamento dos dados.
+
 ## <center>Modelagem Banco de Dados</center>
 
 ### Modelo Entidade-Relacionamento (ME-R) 
@@ -32,6 +38,8 @@
 
 ## <center>Diagrama de Classe</center>
 
-![DLD](img/meadota.jpeg)
+![Diagrama de Classe](img/meadota.jpeg)
 
 ## <center>Diagrama de Casos de Uso</center>
+
+![Diagrama de Casos de Uso](img/usercase.jpg)
