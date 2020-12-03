@@ -323,10 +323,6 @@ Não foi possível realizar a Observação Participativa para compor o levantame
         </td>
     </tr>
     <tr>
-        <td>EPIC04</td>
-        <td>Create all models </td>
-    </tr>
-    <tr>
         <td>EPIC05</td>
         <td>Create all pages</td>
     </tr>
@@ -389,24 +385,9 @@ Não foi possível realizar a Observação Participativa para compor o levantame
     <tr>
         <td></td>
         <td>
-            US00 - User can sign up<br> 
-                <pre>    TASK - Create account with Google</pre> 
-                <pre>    TASK - Create account with Twitter</pre>  
             US01 - User must verify their regular account<br>
                 <pre>    TASK - Update email template</pre> 
                 <pre>    TASK - Update Verify Your E-mail Address template</pre> 
-        </td>
-    </tr>
-    <tr>
-        <td>EPIC01</td>
-        <td>Login implementation</td>
-    </tr>
-    <tr>
-        <td></td>
-        <td>
-            US02 - User can log in<br>
-                <pre>    TASK - Google Login</pre> 
-                <pre>    TASK - Twitter Login</pre> 
         </td>
     </tr>
     <tr>
@@ -429,15 +410,8 @@ Não foi possível realizar a Observação Participativa para compor o levantame
         <td></td>
         <td>
             US08 - User can see the site<br>
-                <pre>    TASK - Create pet feed</pre> 
                 <pre>    TASK - Fix index text</pre> 
                 <pre>    TASK - Make all buttons and links work properly</pre> 
-            US09 - User can see account data <br>
-                <pre>    TASK - Create insert pet page</pre> 
-                <pre>    TASK - Create my pet records page</pre> 
-                <pre>    TASK - Create pet details page</pre> 
-                <pre>    TASK - Create personal pet page</pre> 
-                <pre>    TASK - Create personal page</pre> 
         </td>
     </tr>
     <tr>
@@ -447,8 +421,6 @@ Não foi possível realizar a Observação Participativa para compor o levantame
     <tr>
         <td></td>
         <td>
-            US11 - User can see the site<br> 
-                <pre>    TASK - Make pet feed responsive</pre> 
             US12 - User can see account data<br> 
                 <pre>    TASK - Make insert pet page responsive</pre> 
                 <pre>    TASK - Make my pet records page responsive</pre> 
@@ -466,21 +438,7 @@ Não foi possível realizar a Observação Participativa para compor o levantame
         <td></td>
         <td>
             US13 - User can register pets<br> 
-                <pre>    TASK - Create pet form</pre> 
-                <pre>    TASK - Update data pets</pre> 
-                <pre>    TASK - Insert pets</pre> 
-                <pre>    TASK - Mark pets as adopted</pre> 
                 <pre>    TASK - User should not be able to register pet if the registration is not complete</pre> 
-            US14 - User can see a pet feed<br> 
-                <pre>    TASK - Show registered pets by the user</pre> 
-                <pre>    TASK - Show pet details</pre> 
-                <pre>    TASK - Show details of selected Pet</pre> 
-                <pre>    TASK - Any person can search for pets</pre> 
-                <pre>    TASK - Make our adoption data appear in home page</pre> 
-                <pre>    TASK - requirements.txt have lots of unused packages</pre> 
-                <pre>    TASK - settings.py has broken lines</pre> 
-            US15 - User can request to send message to pet owner<br> 
-                <pre>    TASK - Send message by WhatsApp</pre> 
         </td>
     <tr>
 </table>
