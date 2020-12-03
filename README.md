@@ -1,3 +1,4 @@
+
 <h3 align="center"><b>Me Adota - Documentations</b></h3>
 <p align="center">
     This is the general documentation for Me Adota website.
@@ -29,10 +30,10 @@ $ cd docs
 
 #### 3. You must activate the venv bin, it will be activated using
 
-<code>
-$ virtualenv venv
-$ source venv/bin/activate
-</code>
+<code>$ virtualenv venv</code>
+
+
+<code>$ source venv/bin/activate</code>
 
 #### 4. The requirements.txt file should list all Python libraries that your machine depend on, and they will be installed using
 
@@ -55,5 +56,5 @@ It should be running on: http://127.0.0.1:8000/
 <h3><b>LICENSE</b></h3>
 
 <p>
-    This project is licensed under the MIT LICENSE, read more in <a href="">LICENSE.md</a>.
+    This project is licensed under the MIT LICENSE, read more in <a href="https://github.com/Me-Adota/docs/blob/main/LICENSE">LICENSE.md</a>.
 </p>
