@@ -14,16 +14,16 @@
 
 ### Sprint 1
 
-![Sprint 1](img/kanban1.md)
+![Sprint 1](img/kanban1.png)
 
 ### Sprint 2
 
-![Sprint 2](img/kanban2.md)
+![Sprint 2](img/kanban2.png)
 
 ### Sprint 3
 
-![Sprint 3](img/kanban3.md)
+![Sprint 3](img/kanban3.png)
 
 ### Sprint 4
 
-![Sprint 4](img/kanban4.md)
+![Sprint 4](img/kanban4.png)
