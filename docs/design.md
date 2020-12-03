@@ -32,6 +32,6 @@
 
 ## <center>Diagrama de Classe</center>
 
-![DLD](img/meadota.png)
+![DLD](img/meadota.jpeg)
 
 ## <center>Diagrama de Casos de Uso</center>
