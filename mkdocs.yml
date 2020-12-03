@@ -1,7 +1,8 @@
 site_name: Me Adota - Documentations
 
 nav: 
-  - Home: index.md
+  - Início: index.md
+  - Metodologia: methodology.md
   - About: 
     - Global Information: about/about.md
     - Contributing: about/contributing.md
