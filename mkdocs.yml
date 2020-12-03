@@ -1,5 +1,4 @@
-site_name: Me Adota - Documentations
-
+site_name: Me Adota - Documentações
 nav: 
   - Início: index.md
   - Metodologia: methodology.md
@@ -9,9 +8,9 @@ nav:
   - Testes: testing.md
   - Gerenciamento de Configuração: configuration.md
   - Gerenciamento de Projeto: management.md
-  - About: 
-    - Global Information: about/about.md
-    - Contributing: about/contributing.md
+  - Sobre: 
+    - Informações: about/about.md
+    - Contribuição: about/contributing.md
   - MkDOCS: mkdocs.md
 theme:
   name: material
