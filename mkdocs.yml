@@ -3,6 +3,12 @@ site_name: Me Adota - Documentations
 nav: 
   - Início: index.md
   - Metodologia: methodology.md
+  - Requisitos: requirements.md
+  - Design: design.md
+  - Construção: construction.md
+  - Testes: testing.md
+  - Gerenciamento de Configuração: configuration.md
+  - Gerenciamento de Projeto: management.md
   - About: 
     - Global Information: about/about.md
     - Contributing: about/contributing.md
