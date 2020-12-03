@@ -2,11 +2,11 @@
 
 Não foi possível realizar a Observação Participativa para compor o levantamento dos requisitos, portanto utilizamos as seguintes técnicas para esse levantamento, sem prejuízos no que foi proposto:
 
-* Brainstorming
-* Introspecção
-* Storytelling
-* Reuso de requisitos
+* Brainstorm: Todos os membros formularam ideias ao mesmo tempo e anotaram num documento multi-sharing;
 
+* Introspecção: As ideias do brainstorm foram analisadas individualmente e os membros marcaram em um novo documento suas opiniões e suas ideias de um "backlog" provisório;
+
+* Storytelling: Ideias essas que foram organizadas seguindo um processo de contar um caminho pelo qual o usuário poderia seguir dentro do site, considerando as diferentes possibilidades de usuários.
 
 ## <center>Backlog do Produto</center>
 
