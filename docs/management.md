@@ -2,4 +2,4 @@
 
 ## <center>Cronograma de Marco</center>
 
-![Cronograma](img/cronogramaMarcos.md)
+![Cronograma](img/cronogramaMarcos.jpeg)
