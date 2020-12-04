@@ -20,9 +20,6 @@ Não foi possível realizar a Observação Participativa para compor o levantame
         <td>
             US00 - User can sign up<br> 
                 <pre>    TASK - Create regular account</pre> 
-                <pre>    TASK - Create account with Facebook</pre> 
-                <pre>    TASK - Create account with Google</pre> 
-                <pre>    TASK - Create account with Twitter</pre>  
                 <pre>    TASK - Fix User forms</pre> 
             US01 - User must verify their regular account<br>
                 <pre>    TASK - Send verification email</pre> 
@@ -40,10 +37,6 @@ Não foi possível realizar a Observação Participativa para compor o levantame
         <td>
             US02 - User can log in<br>
                 <pre>    TASK - Default Login</pre>  
-                <pre>    TASK - Facebook Login</pre> 
-                <pre>    TASK - Google Login</pre> 
-                <pre>    TASK - Twitter Login</pre> 
-                <pre>    TASK - Fix Facebook Login Problems in Settings.py</pre> 
         </td>
     </tr>
     <tr>
@@ -235,8 +228,7 @@ Não foi possível realizar a Observação Participativa para compor o levantame
         <td></td>
         <td>
             US00 - User can sign up<br> 
-                <pre>    TASK - Create regular account</pre> 
-                <pre>    TASK - Create account with Facebook</pre>   
+                <pre>    TASK - Create regular account</pre>   
             US01 - User must verify their regular account<br>
                 <pre>    TASK - Send verification email</pre> 
                 <pre>    TASK - Verify regular account</pre> 
@@ -251,8 +243,6 @@ Não foi possível realizar a Observação Participativa para compor o levantame
         <td>
             US02 - User can log in<br>
                 <pre>    TASK - Default Login</pre>  
-                <pre>    TASK - Facebook Login</pre> 
-                <pre>    TASK - Fix Facebook Login Problems in Settings.py</pre> 
         </td>
     </tr>
     <tr>
