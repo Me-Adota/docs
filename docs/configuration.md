@@ -1,5 +1,7 @@
 # Gerenciamento de Configuração de Software
 
+Em cada uma das sprints foi desenvolvida uma versão. Elas podem ser acessadas pelos links abaixo.
+
 ## <center>Historico de Versões</center>
 
 * <a href="https://github.com/Me-Adota/website/pull/35">V0.1</a> - 16/11 

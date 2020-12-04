@@ -1,6 +1,6 @@
 # Global Information
 
-For the Me Adota project we use the following technologies:
+Para o projeto Me Adota, usamos as seguintes tecnologias:
 
 **1.** `Python 3.8.5`
 
